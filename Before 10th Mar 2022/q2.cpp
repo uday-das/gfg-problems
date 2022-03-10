@@ -16,23 +16,7 @@ struct Node
 };
 
 // } Driver Code Ends
-/*
-  Pairwise swap a linked list
-  The input list will have at least one element
-  node is defined as
 
-struct node
-{
-    int data;
-    struct node* next;
-
-    node(int x){
-        data = x;
-        next = NULL;
-    }
-
-}*head;
-*/
 class Solution
 {
 public:
