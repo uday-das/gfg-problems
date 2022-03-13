@@ -28,7 +28,6 @@ void displayList(Node *head)
 
 // } Driver Code Ends
 
-
 Node *deleteTail(Node *head)
 {
     if (head == NULL)
