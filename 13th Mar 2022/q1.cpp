@@ -28,7 +28,6 @@ public:
 	    }
 	    return max_ind;
 	}
-
 };
 
 // { Driver Code Starts.
