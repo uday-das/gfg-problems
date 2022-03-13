@@ -46,9 +46,7 @@ int main()
       cout<<endl;
     }
     return 0;
-
 }
-
 
  void insert()
  {
