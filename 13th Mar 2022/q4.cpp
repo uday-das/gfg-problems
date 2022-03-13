@@ -39,7 +39,6 @@ struct node* push(struct node* head, int d)
 
 int GetNth(struct node* head, int index);
 
-
 /* Driver program to test above function*/
 int main()
 {
