@@ -78,7 +78,6 @@ int main()
 }
 // } Driver Code Ends
 
-
 // Complete this function
 void deleteAlt(struct Node *head){
     struct Node * p = head;
