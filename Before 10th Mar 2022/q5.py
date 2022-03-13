@@ -11,7 +11,6 @@ class Node:
 
 '''
 
-
 class Solution:
     # Function to add two numbers represented by linked list.
     def addTwoLists(self, first, second):
