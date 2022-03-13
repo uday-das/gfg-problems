@@ -50,7 +50,6 @@ int main()
 // User function Template for C++
 
 /*
-
 struct Node
 {
     int data;
@@ -62,7 +61,6 @@ struct Node
     }
 
 };
-
 */
 
 vector<int> displayList(Node *head)
