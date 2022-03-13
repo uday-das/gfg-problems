@@ -1,4 +1,4 @@
-// 20. Remove duplicate element from sorted Linked List
+// 20. Remove duplicate element from sorted Linked List 
 
 #include <bits/stdc++.h>
 using namespace std;
