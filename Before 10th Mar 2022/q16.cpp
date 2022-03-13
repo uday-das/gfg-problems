@@ -1,4 +1,4 @@
-// 16. Delete Head of Linked List
+// 16. Delete Head of Linked List 
 
 // { Driver Code Starts
 // Initial Template for C++
