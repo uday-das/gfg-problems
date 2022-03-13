@@ -9,7 +9,7 @@ struct Node
     int data;
     struct Node *next;
 
-} * start;
+} *start;
 
 void insert();
 void display(struct Node *head);
