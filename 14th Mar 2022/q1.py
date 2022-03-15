@@ -1,4 +1,4 @@
-# 1. Find triplets with zero sum
+# 1. Find triplets with zero sum 
 
 class Solution:
     #Function to find triplets with zero sum.    
