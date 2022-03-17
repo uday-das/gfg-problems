@@ -1,4 +1,4 @@
-// 1. Missing number in array
+// 1. Missing number in array 
 
 // { Driver Code Starts
 // Initial template for C++
