@@ -53,7 +53,6 @@ int main()
 // } Driver Code Ends
 
 
-
 int modularNode(Node* head, int k)
 {
     Node * ptr = head;
