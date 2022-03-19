@@ -39,7 +39,6 @@ class Solution
         sort(a.begin(), a.end());
         return a[0];
     }
-
 };
 
 // { Driver Code Starts.
