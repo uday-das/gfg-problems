@@ -60,7 +60,6 @@ Node* make_tree()
 
 long int sumBT(Node* root);
 
-
 int main()
 {
     int t;cin>>t;while(t--){
