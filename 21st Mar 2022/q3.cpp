@@ -21,7 +21,6 @@ int SumMe(vector<int> arr, int n){
     return sum;
 }
 
-
 // { Driver Code Starts.
 
 int main() 
