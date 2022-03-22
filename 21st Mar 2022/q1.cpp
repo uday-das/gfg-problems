@@ -10,8 +10,7 @@ using namespace std;
 
 void iter(vector<int>::iterator it1,vector<int>::iterator it2);
 
-
- // } Driver Code Ends
+// } Driver Code Ends
 //User function Template for C++
 
 //Complete this function. it1 points to vector.begin(), it2 points to vector.end()
