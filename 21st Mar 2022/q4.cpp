@@ -28,7 +28,6 @@ int findFrequency(vector<int> v, int x){
 int main() {
 	
 	int testcase;
-	
 	cin >> testcase;
 	
 	while(testcase--){
