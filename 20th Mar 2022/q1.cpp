@@ -15,10 +15,8 @@ public:
     void push(int);
 };
 
-
 int main()
 {
-
     int T;
     cin>>T;
     while(T--)
