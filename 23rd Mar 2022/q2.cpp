@@ -34,7 +34,6 @@ int main()
 	{
 	    int n;
 	    cin>>n;
-	   
 	   vector<int>v;
 	   int i;
 	   for(i=0;i<n;i++)
