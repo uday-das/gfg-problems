@@ -6,8 +6,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
-
  // } Driver Code Ends
 //User function Template for C++
 
