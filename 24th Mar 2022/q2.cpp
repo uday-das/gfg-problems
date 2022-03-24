@@ -1,4 +1,4 @@
-// 2. Check if two arrays are equal or not
+// 2. Check if two arrays are equal or not 
 
 // { Driver Code Starts
 //Initial function template for C++
