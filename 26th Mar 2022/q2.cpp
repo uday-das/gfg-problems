@@ -37,7 +37,6 @@ int main()
             cin>>b[i];
         Solution ob;
         ob.scores(a, b, ca, cb);
-        
         cout<<ca<<" "<<cb<<endl;
     }
     return 0 ;
