@@ -30,8 +30,7 @@ public:
 int main() 
 {
    	
-
-   	ios_base::sync_with_stdio(0);
+    ios_base::sync_with_stdio(0);
     cin.tie(NULL);
     cout.tie(NULL);
    
@@ -47,8 +46,7 @@ int main()
    		
        
    		Solution ob;
-   		cout << ob.removeVowels(s) << "\n";
-   		
+   		cout << ob.removeVowels(s) << "\n";	
    	}
 
     return 0;
