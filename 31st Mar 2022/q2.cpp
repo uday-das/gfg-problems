@@ -7,9 +7,8 @@
 using namespace std;
 
 
- // } Driver Code Ends
+// } Driver Code Ends
 //User function Template for C++
-
 
 // list: remove from front of list provided
 void removeFromFront(forward_list<int> &list)
