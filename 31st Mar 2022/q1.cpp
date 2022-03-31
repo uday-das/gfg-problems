@@ -7,8 +7,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
- // } Driver Code Ends
+// } Driver Code Ends
 //User function Template for C++
 
 // arr[]: insert the elements of array to forwardList
