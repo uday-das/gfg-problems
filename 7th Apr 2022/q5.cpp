@@ -6,8 +6,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
- // } Driver Code Ends
+// } Driver Code Ends
 //User function Template for C++
 
 //Function to erase the element from specified position X in deque.
