@@ -28,7 +28,6 @@ int main() {
     }
 }// } Driver Code Ends
 
-
 // User function Template for C++
 
 // Function to reverse first k elements of a queue.
