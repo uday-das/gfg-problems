@@ -30,7 +30,6 @@ int main()
     }
 }// } Driver Code Ends
 
-
 //function Template for C++
 
 //Function to reverse the queue.
