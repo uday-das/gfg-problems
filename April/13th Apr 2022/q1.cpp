@@ -4,9 +4,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
- // } Driver Code Ends
-
+// } Driver Code Ends
 
 class Solution
 {
@@ -31,8 +29,6 @@ class Solution
         return v;
     }
 };
-
-
 
 // { Driver Code Starts.
 
