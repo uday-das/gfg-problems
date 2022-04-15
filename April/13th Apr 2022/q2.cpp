@@ -15,7 +15,6 @@ using namespace std;
 */
 void push_pq(priority_queue<int, vector<int>, greater<int>> &pq, int x){
     pq.push(x);
-    
 }
 
 /* Function to implement pop operation in priority_queue
