@@ -1,4 +1,4 @@
-// 2. Distinct Sorted
+// 2. Distinct Sorted 
 
 // { Driver Code Starts
 // Initial Template for C++
