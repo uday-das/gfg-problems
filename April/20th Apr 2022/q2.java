@@ -6,7 +6,6 @@
 import java.util.Scanner;
 
 class q2 {
-
     
  // } Driver Code Ends
 //User function Template for Java
