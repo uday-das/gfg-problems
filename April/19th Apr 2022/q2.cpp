@@ -44,7 +44,6 @@ int main()
             cin >> x >> y;
             v.push_back(make_pair(x, y)); // Pushing a pair in the vector
         }
-
         sum(v); // The sum function
     }
     return 0; 
