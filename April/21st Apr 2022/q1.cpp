@@ -40,7 +40,6 @@ void mapErase(map<int, int> &mp, int x)
         mp.erase(it);
         cout << "erased " << x;
     }
-
     else
         cout << "not found";
 
