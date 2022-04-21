@@ -11,7 +11,7 @@ using namespace std;
 
 class Solution
 {
-public:
+public: 
     vector<int> common_element(vector<int> v1, vector<int> v2)
     {
         vector<int> ans;
