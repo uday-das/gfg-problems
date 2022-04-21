@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 class q2 {
     
- // } Driver Code Ends
+// } Driver Code Ends
 //User function Template for Java
 
 public static int nFactorial(int n){
