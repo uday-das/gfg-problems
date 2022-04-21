@@ -31,7 +31,7 @@ void Election2019(char party[], int seats[], int n)
     cout << max << endl;
 }
 
-// { Driver Code Starts.
+// { Driver Code Starts. 
 
 int main()
 {
