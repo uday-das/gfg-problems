@@ -23,13 +23,11 @@ int SizeMe(unordered_set<string> myset)
 
 int main()
 {
-
     int t;
     cin >> t;
 
     while (t--)
     {
-
         string str;
         cin >> str;
 
