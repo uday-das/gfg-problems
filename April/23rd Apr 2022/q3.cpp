@@ -19,7 +19,7 @@ public:
         }
         for (int i = 0; i < n; i++)
         {
-            if (mp[arr[i]] == 1)            // finding those elemets which are occuring once
+            if (mp[arr[i]] == 1)            // finding the element which has occured once for the 1st time
             {
                 return arr[i];
             }
