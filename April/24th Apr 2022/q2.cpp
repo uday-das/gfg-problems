@@ -1,4 +1,4 @@
-// 2. Count only Repeated
+// 2. Count only Repeated 
 
 // { Driver Code Starts
 // Initial function template for C++
