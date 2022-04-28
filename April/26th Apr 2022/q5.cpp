@@ -20,8 +20,6 @@ bool BinarySearch(vector<int> vec, int K)
         return false;
 }
 
-
-
 // { Driver Code Starts.
 
 int main()
