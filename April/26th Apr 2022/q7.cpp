@@ -39,7 +39,7 @@ int main()
         for(int i=0;i<n;i++)
         {
             string k;
-            cin>>k;
+            cin>>k; 
             v.push_back(k);
         }
         vector<string>ans=login_system(v);
