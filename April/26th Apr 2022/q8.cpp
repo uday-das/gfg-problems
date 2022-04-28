@@ -24,12 +24,10 @@ long int HashMe (unordered_set<string> myset, string str){
   return foo (str);
 }
 
-
 // { Driver Code Starts.
 
 int main ()
 {
-
   int t;
   cin>>t;
   
