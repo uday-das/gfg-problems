@@ -1,4 +1,4 @@
-// 6. Winner of an election
+// 6. Winner of an election 
 
 // { Driver Code Starts
 #include <iostream>
