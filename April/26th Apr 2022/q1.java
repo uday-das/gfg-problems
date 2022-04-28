@@ -18,8 +18,6 @@ import java.util.*;
 class Geeks{
     
     static void interchange(int a[][],int r, int c){
-        
-        
         for(int i = 0; i < r; i++)
         {
             int temp = a[i][0];
