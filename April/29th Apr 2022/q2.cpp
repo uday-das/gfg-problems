@@ -3,10 +3,8 @@
 // { Driver Code Starts
 //Initial Template for C++
 
-
 #include <bits/stdc++.h>
 using namespace std;
-
 
  // } Driver Code Ends
 //User function Template for C++
@@ -18,7 +16,6 @@ bool isArr2PermutationOfArr1(int arr1[],int arr2[],int n)
 }
 
 // { Driver Code Starts.
-
 
 int main() {
     
