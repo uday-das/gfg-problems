@@ -37,7 +37,6 @@ int main()
             cin >> x;
             s.insert(x);
         }
-
         int x;
         cin >> x;
 
