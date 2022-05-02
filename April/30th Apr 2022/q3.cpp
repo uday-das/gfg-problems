@@ -6,7 +6,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
  // } Driver Code Ends
 //User function Template for C++
 
@@ -18,13 +17,11 @@ text: pattern needs to searched.
 bool searchPattern(string str, string pat)
 {
     int pos = str.find(pat);
-    if(pos != string :: npos)
+    if(pos != string :: npos)                        // pattern found
         return true;
     else
         return false;
 }
-
-
 
 // { Driver Code Starts.
 int main()
