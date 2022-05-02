@@ -3,11 +3,8 @@
 // { Driver Code Starts
 //Initial Template for C++
 
-
-
 #include <bits/stdc++.h>
 using namespace std;
-
 
  // } Driver Code Ends
 //User function Template for C++
@@ -21,8 +18,6 @@ int vMax(vector<int>v, int n)
 }
 
 // { Driver Code Starts.
-
-
 
 int main() {
 	int t;
