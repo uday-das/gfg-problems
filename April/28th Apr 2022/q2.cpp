@@ -1,4 +1,4 @@
-// 2. The Thief Problem 
+// 2. The Thief Problem
 
 // { Driver Code Starts
 //Initial Template for C++
