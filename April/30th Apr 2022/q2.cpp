@@ -1,11 +1,10 @@
-// 2. Remove from vector 
+// 2. Remove from vector
 
 // { Driver Code Starts
 //Initial Template for C++
 
 #include <bits/stdc++.h>
 using namespace std;
-
 
  // } Driver Code Ends
 //User function Template for C++
