@@ -1,4 +1,4 @@
-// Minimum Vertical Sum
+// Minimum Vertical Sum 
 
 // { Driver Code Starts
 // Initial Template for C++
