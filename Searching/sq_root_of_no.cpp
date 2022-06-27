@@ -11,11 +11,23 @@ class Solution
 public:
     long long int floorSqrt(long long int x)
     {
-        int t = sqrt(x);
-        if (x % t == 0)
-            return t;
-        else
-            return t;
+        int low = 1, high = x;
+        long long ans = -1;
+        while (low <= high)
+        {
+            int mid = (low + high) / 2;
+            int mSq = mid * mid;
+            if (mSq == x)
+                return mid;
+            else if (mSq > x)
+                high = mid - 1;
+            else
+            {
+                low = mid + 1;
+                ans = mid;
+            }
+        }
+        return ans;
     }
 };
 
